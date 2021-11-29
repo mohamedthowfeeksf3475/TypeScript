@@ -1,0 +1,19 @@
+#mainPortal{
+    display: block;
+}
+
+#signUp{
+    display: none;
+}
+
+#logIn{
+    display: none;
+}
+
+#menuList{
+    display: none;
+}
+
+#coursePicking{
+    display: none;
+}
